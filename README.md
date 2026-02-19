@@ -29,7 +29,12 @@ Processed actor names using Python regex to extract Full_Name and last names sep
 
 ### 5. Custom Neo4j Functions
 Designed and deployed user-defined functions to extend database functionality.
+
+
 ---
 ## Project Documentation
+
 Detailed implementation and queries are provided in the attached project report (PDF).
+
+
 ---
